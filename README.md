@@ -9,4 +9,4 @@ I'm a passionate, innovative software developer and entrepreneur with a rich bac
 <h3>📫 How to Reach Me:</h3>
 • <a href='https://www.linkedin.com/in/mihai-alexandru-cirlea-74038a1ab/'>LinkedIN</a><br>
 • Email: alexcirlea@gmail.com<br>
-• Discord: highscam<br>
+• Discord: highscam
