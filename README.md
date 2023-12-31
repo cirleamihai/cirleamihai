@@ -1,8 +1,8 @@
 <h1>👋 Hi there, I'm Alex</h1>
 
-I'm a passionate, innovative software developer and entrepreneur with a rich background in building advanced, scalable solutions for the e-commerce sector. My journey ranges from Comptetitive Programming to writing reliable and autonomous Applications.
+I'm a passionate software developer and entrepreneur with a rich background in building advanced and scalable solutions for the e-commerce sector. Ex Competitive Programming enjoyer :). Currently developing Python Applications.
 
-👌 Currently working as a Freelancer with different partners. <br>
+👌 Working as a Freelancer with different partners. <br>
 🌱 Currently interested in diving into the AI field. <br>
 👐 Contact me for any inquiries or Project Collaborations.<br>
 
