@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I'm Alex</h1>
 
-Software developer and entrepreneur with a rich background in building advanced and scalable solutions for the e-commerce sector. Ex Competitive Programming enjoyer :). Currently developing Python Applications.
+Software developer and entrepreneur with a rich background in building advanced and scalable solutions for the e-commerce sector. Ex Competitive Programming enjoyer.
 
 👌  Working as a Freelancer with different partners. <br>
 👐 Contact me for any inquiries or Project Collaborations.<br>
