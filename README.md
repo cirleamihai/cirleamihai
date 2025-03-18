@@ -7,5 +7,5 @@ Software developer and entrepreneur with a rich background in building advanced 
 
 <h3>📫 How to Reach Me:</h3>
 • <a href='https://www.linkedin.com/in/mihai-alexandru-cirlea-74038a1ab/'>LinkedIN</a><br>
-• Email: alexcirlea@gmail.com<br>
+• Email: officecirlea@gmail.com<br>
 • Discord: krlea_dev
