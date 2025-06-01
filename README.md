@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=cirleamihai&color=purple)
+![](https://komarev.com/ghpvc/?username=cirleamihai&color=blueviolet)
 
 <h1>👋 Hi there, I'm Alex</h1>
 
