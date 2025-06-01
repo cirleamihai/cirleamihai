@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=cirleamihai&color=purple)
+
 <h1>👋 Hi there, I'm Alex</h1>
 
 Software developer and entrepreneur with a rich background in building advanced and scalable solutions for the e-commerce sector. Ex Competitive Programming enjoyer.
